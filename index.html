@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock Paper Scissors</title>
+    <script src="script.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="title">ROCK PAPER SCISSORS</div>
+    </nav>
+    <div class="flex-container">
+        <div id="rock" class="box"></div>
+        <div id="paper" class="box"></div>
+        <div id="scissors" class="box"></div>
+    </div>
+
+    <div class="round-result-tie" id="round-result">The first player to reach 5 points wins!</div>
+    <div id="total-result"></div>
+
+    <div class="results">
+        <div class="results-score">
+            <div class="results-score-title">SCORE</div>
+            <div class="results-score-bottom">
+                <div class="results-score-bottom-player">
+                    <div>Player</div>
+                    <div class="player-score">0</div>
+                </div>
+                <div class="results-score-bottom-computer">
+                    <div>Computer</div>
+                    <div class="computer-score">0</div>
+                </div>
+            </div>
+        </div>
+        <div class="results-round">
+            <div class="results-round-title">ROUND</div>
+            <div class="results-round-bottom">
+                <div class="results-round-bottom-player">
+                    <div>Player</div>
+                    <div id="player-select"></div>
+                </div>
+                <div class="results-round-bottom-computer">
+                    <div>Computer</div>
+                    <div id="computer-select"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="reset-button">
+        <button id="reset">PLAY AGAIN</button>
+    </div>
+</body>
+</html>
