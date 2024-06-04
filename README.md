@@ -7,6 +7,7 @@ I started and finished this project in June 2022.
 ## Assignment
 
 [The Odin Project - Foundations - #3 Part 1 Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
+
 [The Odin Project - Foundations - #3 Part 2 Revisiting Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors)
 
 ## Technology
