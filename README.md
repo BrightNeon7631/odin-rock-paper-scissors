@@ -27,9 +27,7 @@ I started and finished this project in June 2022.
 
 ## Links
 
-[Live Demo](https://brightneon7631.github.io/odin-rock-paper-scissors/)
-
-[My Other Projects](https://brightneon7631.github.io/odin-scrimba-projects/)
+[Live Demo](https://bn7631-odin-rock-paper-scissors.pages.dev)
 
 ## Screenshots
 
@@ -52,5 +50,5 @@ I started and finished this project in June 2022.
 ## Deployment
 
 ```bash
-  git clone
+  git clone https://github.com/BrightNeon7631/odin-rock-paper-scissors.git
 ```
